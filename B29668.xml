@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters to the honourable William Lenthall, Esquire, Speaker of the House of Commons; and to the committee of both kingdoms, concerning the state of Sir Tho. Fairfax army. Shewing the obedience of the souldiers, which were mutiniers to the commands of the Parliament, and their readinesse to serve the state, under the command of Sir Thomas Fairfax. Together with Sergeant-Major Generall Skippons speech, to all the officers and souldiers, and their concurrence thereunto. With a letter of Serjeant-Major Skippons, shewing the readinesse of the souldiers, to go on in this expedition. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29668</idno><idno type="EEBO-CITATION">99883193</idno>
+  <idno type="VID">186847</idno>
+  <idno type="EEBO-PROQUEST">2240886699</idno>
+  
+            <idno type="STC">Wing S2780</idno>
+            <idno type="STC">Thomason E.277[8]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 3850[5]</idno>
+            <idno type="STC">ESTC R200006</idno>
+            <idno type="PROQUEST">ocm99883193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883193e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186847)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:5[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters to the honourable William Lenthall, Esquire, Speaker of the House of Commons; and to the committee of both kingdoms, concerning the state of Sir Tho. Fairfax army. Shewing the obedience of the souldiers, which were mutiniers to the commands of the Parliament, and their readinesse to serve the state, under the command of Sir Thomas Fairfax. Together with Sergeant-Major Generall Skippons speech, to all the officers and souldiers, and their concurrence thereunto. With a letter of Serjeant-Major Skippons, shewing the readinesse of the souldiers, to go on in this expedition. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 9th".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:186847:1"/>
+            <p>Severall LETTERS TO THE HONOURABLE <hi>William Lenthall,</hi> Esquire, Speaker of the House of Commons; And to the Committee of both Kingdoms, concerning the State of Sir <hi>Tho. Fairfax</hi> Army.</p>
+            <p>Shewing the obedience of the Souldiers, which were Mutiniers to the Commands of the Parliament, and their readinesse to serve the State, under the Command of Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>Together with Sergeant-Major▪ Generall <hi>Skippons</hi> SPEECH, to all the Officers and Souldiers, and their concurrence thereunto.</p>
+            <p>With a Letter of Serjeant-Major <hi>Skippons,</hi> shewing the readinesse of the Souldiers, to go on in this expedition.</p>
+            <p>ORdered by the Commons Assembled in Parliament, that these Letters be forthwith Printed and Published.</p>
+            <p>
+               <hi>H: Elsynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>London, Printed for <hi>Edward Husbands.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:186847:2"/>
+            <pb n="1" facs="tcp:186847:2"/>
+            <head>
+               <hi>To the Right Worshipfull, Sir</hi> John Evelyn, <hi>Sir</hi> Henry Vane▪ <hi>junior; Master</hi> Sollicitor, <hi>or either of them.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VE being desired to further the service of the State; And having seen very much of Gods over-ruling-Providence upon the Spirits both of Commanders, and Souldiers, in our entrance upon that great work at <hi>Reading,</hi> where our presence and assistance was de<g ref="char:EOLhyphen"/>sired by the Major▪ Generall; who on Friday night, so soon as ever we came into the Garrison, gave order to draw out the five Regiments, formerly under the Command of his Excellencie, the Earl of <hi>Essex▪</hi> and five Companies of my Lord <hi>Roberts,</hi> into the field on the next morning: We thought it our duty to acquaint you with the proceedings at that meeting. The Regiments and Companies aforesaid, being drawn up according to Order; The M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jor Generall marched in the head of all the Regiments, being accompa<g ref="char:EOLhyphen"/>nied with us, and the Commissioners in the Army, who were received with a generall shout and acclamation of the souldiers: The complement of the field being over, each Regiment was drawn apa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; And then the Major-Generall applied himself, First, to his Excellencies regiment, &amp; there commanded all the Officers to draw together to the head of the Regiment, and the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e exprest himself with much gra<g ref="char:EOLhyphen"/>vity, and sweetnesse of spirit, to the Officers and Souldiers of that Regiment, to this effect: (I think we may say <hi>ver<g ref="char:EOLhyphen"/>batim</hi>) as is expressed in the inclosed: The like to all the rest with some little variations: Upon the close of his Speech to each Regiment, both the Officers to be co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>nued,
+<pb n="2" facs="tcp:186847:3"/> and those that were to be dismissed, did witnesse much readinesse to obey the Commands of Parliament; and likewise very much civility to the Major▪ Generall: And the Souldiers they generally exprest their joy at the close of every Speech, without any reluctancie in any of them; declaring, that now they hoped (ere long) they should be in action. And farther, Whereas divers Inferi<g ref="char:EOLhyphen"/>our Officers went off upon the Reducement, they have li<g ref="char:EOLhyphen"/>sted themselves as common Souldiers: So that we trust, you will have such an account of this businesse, as that you could not desire a better. The inhabitants of this▪ Garri<g ref="char:EOLhyphen"/>son, who have been witnesses of their former mutinous dispositions, do very much wonder at so great a change in the same; and truly, the mighty hand of God was very vi<g ref="char:EOLhyphen"/>sible in the work. We are sorry that we have troubled you with so long a Scrible, the rather because we have an inti<g ref="char:EOLhyphen"/>mation, that the Commissioners here have written to Ma<g ref="char:EOLhyphen"/>ster <hi>Speaker,</hi> touching these Affairs: however, lest they should omit what to our apprehensions was most remarka<g ref="char:EOLhyphen"/>ble, we have taken the boldnesse to give you this trouble: From,</p>
+            <closer>
+               <dateline>
+                  <hi>Reading,</hi>
+                  <date>this 6. of <hi>April.</hi> 1645.</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed> Your most humble Servants,<list>
+                     <item>
+                        <hi>Francis Allein.</hi>
+                     </item>
+                     <item>
+                        <hi>John Dethick.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:186847:3"/>
+            <head>
+               <hi>The inclosed Speech of Serjeant-Maior-Generall</hi> Skippon.</head>
+            <opener>
+               <salute>Gentlemen, and fellow Souldiers all,</salute>
+            </opener>
+            <p>I am now to acquaint you with the Commands of Parliament; to which in conscience to God, and love to our Country, we are bound to give all ready and cheerfull obedience. There is a neces<g ref="char:EOLhyphen"/>sity lies upon us (since three Armies are to be reduced into one) that some Commanders and Officers must go out of their Imployments, wherein they now are. It is not out of any personall dis-respect to any of you that shall now go off; Therefore I hope you will behave your selves accordingly. I have received Order from the House of Commons, to take notice what the comportment sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be of those who must now go off; and to certifie it unto them. I know you will behave your selves like men of Honour and honesty (as indeed you are) and that I shall have no cause, but to make a good report of you; which I shall do, according to your carriage in this Re<g ref="char:EOLhyphen"/>ducement, both to the Speaker of the Honourable House of Com<g ref="char:EOLhyphen"/>mons, and to the Committee of both Kingdoms, and that particular Committee which are appointed to take you into consideration, and to take in your Accompts, and pay you part of your Arreares at pre<g ref="char:EOLhyphen"/>sent, and for the rest, you are to have a Debenter upon the Publique-Faith of the Kingdom. But if there shall be any among you, who out of any personall respect, or private discontent, shall make any disturbance in this Reducement; so as to obstruct or hinder a work of so Publique concernment; I shall not fail to give him his true Character to the State, without personall respect to any. And there<g ref="char:EOLhyphen"/>fore let no man deceive himself; for although he may perhaps occa<g ref="char:EOLhyphen"/>sion some trouble in the present businesse, yet in the Issue, the great<g ref="char:EOLhyphen"/>est mischief will fall upon himself: But I hope I shall finde none such here. There is (at present) a fortnights pay to be paid to such Officers as shall go off; which they shall presently have upon their Muster: And as for the Officers, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Souldiers that are continued, (as soon as they shall be Mustered and Listed) they also shall h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve a fortnights pay; and there are Clothes come down for the Souldi<g ref="char:EOLhyphen"/>ers already in part; and I assure you, That upon my Life and Ho<g ref="char:EOLhyphen"/>nour, there are more providing, and you shall be all furnished with Coats, Breeches, Shirts, Stockins, Shooes, and such Armes as you shall stand in need of; with all good usage and constant pay. And
+<pb n="4" facs="tcp:186847:4"/> that as I have been with you hitherto, so upon all occasions of service to my God and Country, I shall by the help of God, be willing to live, and dye with you.</p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>To the Honourable</hi> William Lenthall <hi>Esquire, Spea<g ref="char:EOLhyphen"/>ker of the Commons House of Parliament, Assembled at Westminster.</hi>
+            </head>
+            <opener>
+               <salute>Right Worthily Honoured Sir,</salute>
+            </opener>
+            <p>YEsterday by Gods e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peciall bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssing upon my poor endeavours, the work of Reducement here, is quietly, and (I hope) through<g ref="char:EOLhyphen"/>ly settled, both Officers and Souldiers demeaning themselves with all ready obedi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce to the Commands of Parliament. As soon as I can ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an exact list of the officers that are gone off, I shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (God willing) wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h all humblen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, send the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to this Honourable House; that (as shall seem best unto you) they may be taken into your further consideration. I in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end (by Gods assistance) to prosecu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e this bu<g ref="char:EOLhyphen"/>sinesse of Reducing the rest in other places, with all possible dili<g ref="char:EOLhyphen"/>gence and faithfulnesse; hoping by Gods further favour, in a short time to bring the same to a wished <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssue; whereof I shall (by Gods help) from time to time give you a true accompt. Onely I most hum<g ref="char:EOLhyphen"/>bly beseech you, that Cloathes and Armes may be suddenly sent to <hi>Windsor,</hi> for their further supply and encouragement: as also for the spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dier fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting them for the publique service, the advancement whereof we heartily long af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er; and I hope in the strength of the Almighty shall with the uttermost hazard of our lives endeavour: may it please you (if it be not done already) to take some speedy▪ and certain course for money to pay those Horse that were of His Excellencies and Sir <hi>William Balfores</hi> Regiments, equall with the rest of the Horse that were of His Excellencies Army, that the Re<g ref="char:EOLhyphen"/>ducing of them may not be hindered or prejudiced. Mr. <hi>Allein.</hi> and Mr. <hi>Det<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick,</hi> now the present Treasurers of the Army here; as also th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commissioners appointed by Parliament, have with all love, care and industry, furthered this great work: which let it please you to take notice of, being a very good and seasonable service to the State. I humbly crave pardon for my great boldnesse, and ever remain,</p>
+            <closer>
+               <dateline>Reading, <date>
+                     <hi>the 6. of Aprill, 1645. 11. at Night.</hi>
+                  </date>
+               </dateline>
+               <salute>Honoured Sir, </salute>
+               <signed>Your Obliged Faith<g ref="char:EOLhyphen"/>full Servant,Ph: Skippon.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:186847:4"/>
+            <head>
+               <hi>To the Honourable,</hi> William Lenthall, <hi>Esquire,</hi> Speaker <hi>to the House of Commons.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>HAving lately prest upon the distemperatures of this Garrison (occasioned principally from the tottering condition of such Officers as were to be reduced, whence undoubtedly grew their discontents, and by whose influ<g ref="char:EOLhyphen"/>ence, the Mutinies of the Souldier took rise, as appeared to us from more then common observation, which accor<g ref="char:EOLhyphen"/>ding to our duty (though to our hazard) we have both la<g ref="char:EOLhyphen"/>boured to suppresse, to qualifie at least, and to present you the Intelligence:) We proceed to acqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int you; Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t upon the happy coming down of Serjeant Major Generall <hi>Skip<g ref="char:EOLhyphen"/>pon,</hi> the work we so long so earnestly desired, and so much feared, was yesterday by the great blessing of God happi<g ref="char:EOLhyphen"/>ly accomplished. Upon Friday, towards night, Major-Generall was welcomed here, with acclamations of joy, serving as a good Omen, and incouragement, to the next dayes businesse. That night the Officers coming to wel<g ref="char:EOLhyphen"/>come him, received much satisfaction, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> understanding from him the providentiall care the Parliament had of them, by ordering a Committee to receive the Major-Ge<g ref="char:EOLhyphen"/>neralls Character, touching the merit, or demerit, of such as were designed to be laid aside, ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l some other opportu<g ref="char:EOLhyphen"/>nity for imployment; as also, to order the auditing their Debenters▪ promoting some part of their Arrer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and pro<g ref="char:EOLhyphen"/>mising Publique-Faith for the rest. This not only calmed them for that night, brought them in due time next day to observe their Orders for drawing the five Regiments into the Forebury, but won them (after his publique significa<g ref="char:EOLhyphen"/>tion in the head of every Regiment, touching the Parlia<g ref="char:EOLhyphen"/>ments respects to the reduc'd Officers, as also their extra<g ref="char:EOLhyphen"/>ordinary provisions of Pay and Apparell for the Private Souldiers, who had liberty offered to chuse their Com<g ref="char:EOLhyphen"/>manders,
+<pb n="6" facs="tcp:186847:5"/> after the four standing Captains of his Excellen<g ref="char:EOLhyphen"/>lencies Regiment were recruited) to deliver up their men to such as stood, in such a method, and with such discretion and obedience to your Commands, that not a dissenting souldier, nor discontented countenance, could well be dis<g ref="char:EOLhyphen"/>covered; so as they orderly marcht thence in three reduc'd Regiments, cheerfully into three Churches, where we forthwith inrolled every Officer and souldier, as they en<g ref="char:EOLhyphen"/>tred the new List, closed the Books that evening, and with like diligence see the Private Souldier paid, and most of the reduc'd Officers. In this action (though the work speak it, yet) cannot we passe by the Major-Generals great pains, and excellent way of invitation, without a deserved Em<g ref="char:EOLhyphen"/>phasis, and Commemoration. To morrow (by Gods assi<g ref="char:EOLhyphen"/>stance) we shall finish the rest: That done, proceed to the Reducement elsewhere, and what other Rules the Major-Generall shall give us to walk by▪ Neverthelesse, clothing, and compleat arming, requires speedy accomplishment, the season inviting, and Major-Generall having by promise in<g ref="char:EOLhyphen"/>gaged himself to them, unto that purpose. In these Affairs (if with modesty we may speak it) we have exprest what might with advantage conduce to make the work prospe<g ref="char:EOLhyphen"/>rous, and go on with such alacrity, and caution, as may worthily render us serviceable, and answerable to the trust reposed in us: which especially adds the interest of being</p>
+            <closer>
+               <dateline>Reading <date>6. A<g ref="char:EOLhyphen"/>pril. 1645.</date>
+               </dateline>
+               <salute>Sir, </salute>
+               <signed>Your Honours most faithfull and obedient Servants,<list>
+                     <item>
+                        <hi>Martin Pyndar.</hi>
+                     </item>
+                     <item>
+                        <hi>H. Leighton.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Herbert.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Potter.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:186847:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
